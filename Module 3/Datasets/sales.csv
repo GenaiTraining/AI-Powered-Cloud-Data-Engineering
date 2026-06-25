@@ -1,0 +1,4 @@
+﻿order_id,customer_id,amount,gst_amount,final_amount
+1001,C101,500,90,590
+1002,C102,1200,216,1416
+1003,C103,700,126,826
