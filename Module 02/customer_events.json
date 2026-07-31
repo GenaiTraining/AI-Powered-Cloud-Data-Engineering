@@ -1,0 +1,17 @@
+[
+  {
+    "customer_id": "C101",
+    "event_type": "login",
+    "event_time": "2026-05-01 10:00:00"
+  },
+  {
+    "customer_id": "C102",
+    "event_type": "search",
+    "event_time": "2026-05-01 10:05:00"
+  },
+  {
+    "customer_id": "C103",
+    "event_type": "purchase",
+    "event_time": "2026-05-01 10:10:00"
+  }
+]
