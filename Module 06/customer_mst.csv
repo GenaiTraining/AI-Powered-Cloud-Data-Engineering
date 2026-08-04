@@ -1,0 +1,21 @@
+﻿customer_id,customer_name,city,state,email
+1,John Smith,New York,New York,john.smith@example.com
+2,Sarah Lee,Chicago,Illinois,sarah.lee@example.com
+3,Michael Brown,Dallas,Texas,michael.brown@example.com
+4,Emily Davis,Seattle,Washington,emily.davis@example.com
+5,David Wilson,Boston,Massachusetts,david.wilson@example.com
+6,Lisa Johnson,Denver,Colorado,lisa.johnson@example.com
+7,Robert Miller,Atlanta,Georgia,robert.miller@example.com
+8,Amanda Clark,Phoenix,Arizona,amanda.clark@example.com
+9,James Taylor,Miami,Florida,james.taylor@example.com
+10,Olivia Martin,San Diego,California,olivia.martin@example.com
+11,Daniel Anderson,Austin,Texas,daniel.anderson@example.com
+12,Sophia Thomas,Portland,Oregon,sophia.thomas@example.com
+13,Matthew Moore,Charlotte,North Carolina,matthew.moore@example.com
+14,Grace Jackson,Detroit,Michigan,grace.jackson@example.com
+15,Andrew White,Nashville,Tennessee,andrew.white@example.com
+16,Chloe Harris,Columbus,Ohio,chloe.harris@example.com
+17,Joseph Lewis,Orlando,Florida,joseph.lewis@example.com
+18,Mia Walker,Las Vegas,Nevada,mia.walker@example.com
+19,Christopher Hall,San Jose,California,christopher.hall@example.com
+20,Ella Allen,Minneapolis,Minnesota,ella.allen@example.com
