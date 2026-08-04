@@ -1,0 +1,3 @@
+userid|userdesc
+1|{"Name":"Addae","Sex":"Male", "DOB":"12-Nov-2004", "Hobbies":["Football", "Singing"], "Address":{"plotno":2, "Building":"Souvenir","Sector":12,"City":"Columbus","Country":"US"}}
+2|{"Name":"Eva","Sex":"Female", "DOB":"23-Oct-2005", "Hobbies":["Painting", "Singing"], "Address":{"plotno":26,"Sector":1,"City":"NY","Country":"US"}}
